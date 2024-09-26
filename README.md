@@ -9,7 +9,7 @@ A middleware solution for interacting with Shopify Admin API and storefront usin
 -  Scalable and modular architecture.
 - Open-source and contribution-friendly. 🌟
 
-## 🛠 Features
+## 🛒 Prerequisites
 
 Before you begin, you need to set up a Shopify app and obtain API credentials.
 
@@ -125,7 +125,7 @@ git push origin feature/new-feature
 If you encounter any issues, feel free to open a [GitHub issue](https://github.com/yourusername/your-repository/issues). We are here to help! 😄
 
 
-## ⚠️ License
+## 📜 License
 
 This project is open source and available under the [MIT License.](https://choosealicense.com/licenses/mit/)
 
