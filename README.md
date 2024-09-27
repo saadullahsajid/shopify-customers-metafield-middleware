@@ -84,9 +84,10 @@ ngrok http 3000
 ### Example Payload:
 ```bash
 {
-  "customerId": "123456789",
-  "metafieldId": "987654321",
-  "value": "Updated Value",
+  "customerId": "1234567890",
+  "namespace": "custom_namespace",
+  "key": "custom_key",
+  "value": "nUpdated Value",
   "type": "single_line_text_field"
 }
 ```
